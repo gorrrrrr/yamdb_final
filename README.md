@@ -63,6 +63,8 @@ docker-compose down
 
 Чтобы внести или удалить какие-либо данные, зайдите в аккаунт вашего superuser по адресу http://localhost/admin
 
+![example workflow](https://github.com/gorrrrrr/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 ### Авторы
 Тимофей Городилов - управление пользователями (Auth и Users): систему регистрации и аутентификации, права доступа, работу с токеном, систему подтверждения через e-mail.
 Iлья Хахалкин - категории (Categories), жанры (Genres) и произведения (Title): модели, представления и эндпойнты для них.
